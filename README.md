@@ -14,5 +14,5 @@ Designing Chart type to display horizontal stacked bar chart of Raw Number of Cu
 
 
 Final Dashboard after creating other tiles to display additional outcomes
-<image src="/Resources/dashboard.png">
+<image src="/Resources/final_dashboard.png">
 
