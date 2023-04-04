@@ -1,5 +1,5 @@
 # RareBurger-Dashboard
-In this project, restaurant KPI data was analyzed to gain insights and make comparisons to peer restaurant performance. The restaurant of interest was The Rare Burger. KPIs included sales, number of customers, customer spend by location, online spend per location, and median spend per transaction. Two sources were required to access the data, a local csv file with The Rare Burger data as well as a data from the Snowflake Marketplace containing New York City Restaurant data. 
+Snowflake was used to analyze restaurant KPI data to gain insights and make comparisons with peer restaurant performance. The restaurant of interest was The Rare Burger. KPIs included sales, number of customers, customer spend by location, online spend per location, and median spend per transaction. Two sources were required to access the data, a local csv file with The Rare Burger data as well as a data from the Snowflake Marketplace containing New York City Restaurant data. 
 
 Firts, SQL queries were used to set up the tables. Second the Schemas were created, then the databases and warehouses configured in Snowflake. Next, SQL queries were used to narrow the desired data and load the tables. As our data was spread across two sources, a joining query was required. Also, the restaurant results were filtered to return only those businesses focused on burgers.
 ***
