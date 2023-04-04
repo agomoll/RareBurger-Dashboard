@@ -22,11 +22,11 @@ Final Dashboard after creating other tiles to display additional outcomes
 
 
   
-  ### Summary
+### Summary
   * Top perfoming zip codes for all burger focused restaurants include 10036, 10019, and 10003.
   * In the top performing zip code (10036), The Rare Burger led in terms of customers per location (1,440) followed by Hard Rock Cafe (329), and The Perfect Pint(175).
   * For zip code 10036, median spend for customers by trasaction was highest for the Burger and Lobster restaurant ($168.28), lowest for Whitman's ($47.04) and was on average $89.83. The Rare Burger median spend was $111.19. By comparison, the median for zip code 10019 was $392.24.
   
-  #### Suggestions
-    * Investigate pricing accross restaurants to optimize The Rare Burger pricing strategy. 
-    * Investigate pricing and puchase order details across zipcodes to look for oportunities for standardizing or optimizing. 
+#### Suggestions
+  * Investigate pricing accross restaurants to optimize The Rare Burger pricing strategy. 
+  * Investigate pricing and puchase order details across zipcodes to look for oportunities for standardizing or optimizing. 
